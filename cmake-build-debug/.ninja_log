@@ -1,0 +1,14 @@
+# ninja log v5
+6	426	1710294629317735000	lib/libgtest.a	c6f01884f2718f79
+1929	2062	1710294666724134946	Google_tests/Google_Tests_run	1cc10216cdc2baf8
+20	4876	1710806413611732166	CMakeFiles/OOP_lab_1_4.dir/main.cpp.o	49c8fc2a6914837
+3452	9243	1710294617692991787	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	4b48b3155786708d
+0	197	1710983607143095345	build.ninja	c9132f39546c7f20
+6	2823	1710285499882480904	CMakeFiles/OOP_lab_1_4.dir/Splitter.cpp.o	313afbebc62d4469
+7028	7343	1710806416188536987	OOP_lab_1_4	826fec17a4f56b9c
+2	3452	1710294611867384477	Google_tests/CMakeFiles/Google_Tests_run.dir/__/Train.cpp.o	93425df7b1567de8
+2	16061	1710294624494373240	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	25b7da08a0af3743
+426	539	1710294629431168000	lib/libgtest_main.a	2cc3c6d061b36794
+23	4928	1710806413761165676	CMakeFiles/OOP_lab_1_4.dir/Train.cpp.o	9f3351d9fafd0e67
+5	1929	1710294666591284276	Google_tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	955e3349d09a2345
+28	7028	1710806415846606100	CMakeFiles/OOP_lab_1_4.dir/Google_tests/test.cpp.o	91f16bb6a8a15e83
